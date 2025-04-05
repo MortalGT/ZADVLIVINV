@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Exim - Export Invoice Tagging",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zexporttagging"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_09DCAEEA6CA3CB18115B090E31DCE78758DC9F8F_TM",
+    "semanticObject": "zso_export_tag",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_09DCAEEA6CA3CB18115B090E31DCE78758DC9F8F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Exim - Export Invoice Tagging"
+      }
+    }
+  ]
+}
